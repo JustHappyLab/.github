@@ -55,19 +55,10 @@
 <br>
 <hr>
 
-## 📊 组织统计
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JustHappyLab&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustHappyLab&layout=compact&theme=tokyonight&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustHappyLab&theme=tokyonight&column=7&margin-w=8&no-frame=true" />
-</div>
-
-<br>
-<hr>
+## 📊 组织状态
+![总 Star](https://img.shields.io/github/stars/JustHappyLab?color=blue&label=Total%20Stars&style=for-the-badge)
+![仓库数量](https://img.shields.io/github/discussions/JustHappyLab?color=green&label=Repos&style=for-the-badge)
+![提交频率](https://img.shields.io/github/commit-activity/y/JustHappyLab?color=purple&label=Commits&style=for-the-badge)
 
 ## 📌 精选项目
 
